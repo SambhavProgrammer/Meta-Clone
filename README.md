@@ -1,11 +1,11 @@
 Meta Clone 
 🚀 A fully responsive clone of Meta.com, built using HTML and CSS. This project replicates the look and feel of Meta’s official website while ensuring responsiveness across different devices.
 
-🔹 Features
-📱 Fully Responsive – Optimized for all screen sizes (mobile, tablet, desktop).
-🎨 Modern UI – Styled to closely resemble Meta’s official design.
-⚡ Pure HTML & CSS – No JavaScript, ensuring fast and lightweight performance.
-🎭 Flexbox & Grid Layouts – Used for a structured and adaptive design.
+🔹 Features:
+1. 📱 Fully Responsive – Optimized for all screen sizes (mobile, tablet, desktop).
+2. 🎨 Modern UI – Styled to closely resemble Meta’s official design.
+3. ⚡ Pure HTML & CSS – No JavaScript, ensuring fast and lightweight performance.
+4. 🎭 Flexbox & Grid Layouts – Used for a structured and adaptive design.
 
 📌 How to Run Locally:
 1. Clone this repository:
